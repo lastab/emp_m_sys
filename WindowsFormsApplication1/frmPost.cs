@@ -19,6 +19,16 @@ namespace WindowsFormsApplication1
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+            if (txtP_id.Enabled == false)
+            {
+                //function to insert data to database
+            }
+            else 
+            {
+                //function to update data to database
+            }
+
+
             modify_complete();
         }
 
@@ -35,8 +45,7 @@ namespace WindowsFormsApplication1
             //disable textbox here
 
             txtP_name.Enabled = true;
-            txtP_salary .Enabled = true;
-           
+            txtP_salary .Enabled = true;   
 
         }
         private void modify_complete()

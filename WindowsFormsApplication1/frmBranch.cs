@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Data;
+
 
 namespace WindowsFormsApplication1
 {
@@ -58,6 +58,15 @@ namespace WindowsFormsApplication1
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+            if (txtB_id.Enabled == true)
+            {
+                //function to insert data in database            
+            }
+            else 
+            {
+                //function to update data in database
+            }
+            
             modify_complete();
             
         }

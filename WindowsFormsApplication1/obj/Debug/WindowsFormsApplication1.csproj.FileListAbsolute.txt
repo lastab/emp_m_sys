@@ -9,3 +9,4 @@ c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApp
 c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBranch.resources
 C:\Users\admin\Documents\Visual Studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPost.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmEmployee.resources
