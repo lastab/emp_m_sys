@@ -13,6 +13,10 @@ namespace WindowsFormsApplication1
 {
     public partial class frmBranch : Form
     {
+        //variables
+        int data_number;
+        int total_data;
+
         public frmBranch()
         {
             InitializeComponent();
@@ -20,7 +24,16 @@ namespace WindowsFormsApplication1
 
         private void frmBranch_Load(object sender, EventArgs e)
         {
+
+            ////////////////////////////////////////////
+            total_data = 10;
+            /////////////////////////
+
+            data_number = 1;
+            Display_data();
             modify_complete();
+
+            
         }
 
         
@@ -82,5 +95,29 @@ namespace WindowsFormsApplication1
             modify();
         }
 
+
+        //function to display data
+        private void Display_data()
+        {
+            lblposition.Text = data_number + " of " + total_data;
+        }
+
+        private void btn_next_Click(object sender, EventArgs e)
+        {
+            if (total_data != 0)
+                data_number = (data_number + 1);
+            if (data_number > total_data)
+                data_number = 1;
+            Display_data();
+        }
+
+        private void btn_pevious_Click(object sender, EventArgs e)
+        {
+            if (total_data != 0)
+                data_number = (data_number - 1);
+            if (data_number == 0)
+                data_number = total_data;
+            Display_data();
+        }
     }
 }

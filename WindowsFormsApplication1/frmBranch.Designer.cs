@@ -118,6 +118,7 @@
             this.btn_pevious.TabIndex = 8;
             this.btn_pevious.Text = "Previous";
             this.btn_pevious.UseVisualStyleBackColor = true;
+            this.btn_pevious.Click += new System.EventHandler(this.btn_pevious_Click);
             // 
             // btn_next
             // 
@@ -127,6 +128,7 @@
             this.btn_next.TabIndex = 9;
             this.btn_next.Text = "Next";
             this.btn_next.UseVisualStyleBackColor = true;
+            this.btn_next.Click += new System.EventHandler(this.btn_next_Click);
             // 
             // lblposition
             // 
