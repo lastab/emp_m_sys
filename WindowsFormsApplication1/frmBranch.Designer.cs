@@ -112,7 +112,7 @@
             // 
             // btn_pevious
             // 
-            this.btn_pevious.Location = new System.Drawing.Point(36, 258);
+            this.btn_pevious.Location = new System.Drawing.Point(68, 202);
             this.btn_pevious.Name = "btn_pevious";
             this.btn_pevious.Size = new System.Drawing.Size(75, 23);
             this.btn_pevious.TabIndex = 8;
@@ -122,7 +122,7 @@
             // 
             // btn_next
             // 
-            this.btn_next.Location = new System.Drawing.Point(179, 258);
+            this.btn_next.Location = new System.Drawing.Point(211, 202);
             this.btn_next.Name = "btn_next";
             this.btn_next.Size = new System.Drawing.Size(75, 23);
             this.btn_next.TabIndex = 9;
@@ -133,7 +133,7 @@
             // lblposition
             // 
             this.lblposition.AutoSize = true;
-            this.lblposition.Location = new System.Drawing.Point(117, 263);
+            this.lblposition.Location = new System.Drawing.Point(149, 207);
             this.lblposition.Name = "lblposition";
             this.lblposition.Size = new System.Drawing.Size(35, 13);
             this.lblposition.TabIndex = 10;
@@ -141,7 +141,7 @@
             // 
             // btn_add
             // 
-            this.btn_add.Location = new System.Drawing.Point(36, 218);
+            this.btn_add.Location = new System.Drawing.Point(249, 88);
             this.btn_add.Name = "btn_add";
             this.btn_add.Size = new System.Drawing.Size(75, 23);
             this.btn_add.TabIndex = 11;
@@ -151,7 +151,7 @@
             // 
             // btn_edit
             // 
-            this.btn_edit.Location = new System.Drawing.Point(120, 218);
+            this.btn_edit.Location = new System.Drawing.Point(249, 117);
             this.btn_edit.Name = "btn_edit";
             this.btn_edit.Size = new System.Drawing.Size(75, 23);
             this.btn_edit.TabIndex = 12;
@@ -161,7 +161,7 @@
             // 
             // btn_delete
             // 
-            this.btn_delete.Location = new System.Drawing.Point(201, 218);
+            this.btn_delete.Location = new System.Drawing.Point(249, 146);
             this.btn_delete.Name = "btn_delete";
             this.btn_delete.Size = new System.Drawing.Size(75, 23);
             this.btn_delete.TabIndex = 13;
@@ -182,7 +182,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(368, 337);
+            this.ClientSize = new System.Drawing.Size(368, 234);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btn_delete);
             this.Controls.Add(this.btn_edit);

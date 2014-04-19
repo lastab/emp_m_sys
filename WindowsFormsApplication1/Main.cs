@@ -42,5 +42,10 @@ namespace WindowsFormsApplication1
         {
             Application.Exit();
         }
+
+        private void logOutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Restart();
+        }
     }
 }
