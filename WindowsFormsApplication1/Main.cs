@@ -47,5 +47,10 @@ namespace WindowsFormsApplication1
         {
             Application.Restart();
         }
+
+        private void Main_ForeColorChanged(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
