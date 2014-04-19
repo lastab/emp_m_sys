@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\emp_man_sys\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBranch.resources
